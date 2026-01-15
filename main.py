@@ -19,7 +19,7 @@ from mistralai.client import MistralClient
 
 # ================= CONFIG =================
 
-TELEGRAM_TOKEN = "8577515890:AAFlBSqsjpq5eE1oHlCtTZjtxb38_LZ8MS8"
+TELEGRAM_TOKEN = "8321715451:AAE0PRkuqzaMtKeZTu9q4I1GIyW4nn3eCoY"
 MISTRAL_API_KEY = "kBRWeCcqICY8Q20fKADOAE6HxZ07OeU6"
 ADMIN_CHAT_ID = 1947766225
 
@@ -301,3 +301,4 @@ if __name__ == "__main__":
 
     print("БОТ ЗАПУЩЕН")
     app.run_polling()
+
